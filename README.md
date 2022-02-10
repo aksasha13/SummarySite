@@ -26,8 +26,7 @@ everything works generically according to the template, if you add another templ
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
 <h4>Adding migrations:</h4>
-For create my first migration i ussed PowerShell "dotnet ef migrations add _initial"
-For create my database "dotnet ef database update"
+For create my first migration i ussed PowerShell "dotnet ef migrations add _initial" and for create a database "dotnet ef database update"
 
 <h3>Tools and technologies:</h3>
 Visual studio 2022<br>
