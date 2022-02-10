@@ -9,7 +9,7 @@ I used MSSQL database and configured it to authenticate via sql server authentic
 
 ![image](https://user-images.githubusercontent.com/75273945/153415306-bb9bdb9c-399f-4f7b-bded-d5975150abda.png)
 
-Admin Area 
+<h4>Admin Area </h4>
 ![image](https://user-images.githubusercontent.com/75273945/153415633-1b2fe97c-e788-40f0-976f-c6049a1325c6.png)
 ![image](https://user-images.githubusercontent.com/75273945/153415525-fc57e822-ed46-4b23-a0ba-8849e4636a23.png)
 To change the content on the site, I imported CKEditor 4 in the admin area
@@ -22,21 +22,21 @@ everything works generically according to the template, if you add another templ
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
 
-<h3>Tools and technologies:</h3>
+<h4>Tools and technologies:</h4>
 Visual studio 2022
 Microsoft SQL Server Management Studio 19
 SQL Server 2019 Configuration Manager
 
-BackEnd:
+<h4>BackEnd:</h4>
 C# Asp.NET Core Mvc 3.1
 Entity Framework Core+migration+Identity
 MSSQL 19
 
 
-FrontEnd:
+<h4>FrontEnd:</h4>
 HTML5
 JavaScript
 SASS=>css
 
-Imports:
+<h4>Imports:</h4>
 CKEditor 4
