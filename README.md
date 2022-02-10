@@ -15,6 +15,7 @@ I used MSSQL database and configured it to authenticate via sql server authentic
 ![image](https://user-images.githubusercontent.com/75273945/153415525-fc57e822-ed46-4b23-a0ba-8849e4636a23.png)
 
 <h4>To change the content on the site, I imported CKEditor 4 in the admin area</h4>
+
 ![image](https://user-images.githubusercontent.com/75273945/153415909-2023af84-1e7f-4cd3-9dd8-52fadf666e54.png)
 
 On the right side of the site there is a side bar that shows the content in a reduced form and if you click on the photo,
@@ -24,21 +25,21 @@ everything works generically according to the template, if you add another templ
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
 
-<h4>Tools and technologies:</h4><br>
+<h3>Tools and technologies:</h3><br>
 Visual studio 2022<br>
 Microsoft SQL Server Management Studio 19<br>
 SQL Server 2019 Configuration Manager<br>
 
-<h4>BackEnd:</h4><br>
+<h3>BackEnd:</h3><br>
 C# Asp.NET Core Mvc 3.1<br>
 Entity Framework Core+migration+Identity<br>
 MSSQL 19<br>
 
 
-<h4>FrontEnd:</h4><br>
+<h3>FrontEnd:</h3><br>
 HTML5<br>
 JavaScript<br>
 SASS=>css<br>
 
-<h4>Imports:</h4><br>
+<h3>Imports:</h3><br>
 CKEditor 4<br>
