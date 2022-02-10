@@ -24,6 +24,9 @@ everything works generically according to the template, if you add another templ
 ![image](https://user-images.githubusercontent.com/75273945/153416234-7687d3b2-2ac9-4878-8b3f-ca8ae76b8a96.png)
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
+<h4>Adding migrations:</h4>
+For create my first migration i ussed PowerShell "dotnet ef migrations add _initial"
+For create my database "dotnet ef database update"
 
 <h3>Tools and technologies:</h3>
 Visual studio 2022<br>
@@ -37,7 +40,6 @@ Entity Framework Core+migration+Identity<br>
 DataAnotation<br>
 MSSQL 19<br>
 
-
 <h3>FrontEnd:</h3>
 HTML5<br>
 JavaScript<br>
@@ -45,3 +47,5 @@ SASS=>css<br>
 
 <h3>Imports:</h3>
 CKEditor 4<br>
+
+<h3> Almost every line of code is commented for more questions contact me alexander.akimzhanov@gmail.com </h3>
