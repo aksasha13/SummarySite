@@ -21,6 +21,7 @@ I used MSSQL database and configured it to authenticate via sql server authentic
 On the right side of the site there is a side bar that shows the content in a reduced form and if you click on the photo,
 a separate page of the selected content will open where there will be a description of the service or, in my case, the project,
 everything works generically according to the template, if you add another template, then it will be added under an existing template
+
 ![image](https://user-images.githubusercontent.com/75273945/153416234-7687d3b2-2ac9-4878-8b3f-ca8ae76b8a96.png)
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
