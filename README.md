@@ -10,9 +10,11 @@ I used MSSQL database and configured it to authenticate via sql server authentic
 ![image](https://user-images.githubusercontent.com/75273945/153415306-bb9bdb9c-399f-4f7b-bded-d5975150abda.png)
 
 <h4>Admin Area </h4>
+
 ![image](https://user-images.githubusercontent.com/75273945/153415633-1b2fe97c-e788-40f0-976f-c6049a1325c6.png)
 ![image](https://user-images.githubusercontent.com/75273945/153415525-fc57e822-ed46-4b23-a0ba-8849e4636a23.png)
-To change the content on the site, I imported CKEditor 4 in the admin area
+
+<h4>To change the content on the site, I imported CKEditor 4 in the admin area</h4>
 ![image](https://user-images.githubusercontent.com/75273945/153415909-2023af84-1e7f-4cd3-9dd8-52fadf666e54.png)
 
 On the right side of the site there is a side bar that shows the content in a reduced form and if you click on the photo,
@@ -22,21 +24,21 @@ everything works generically according to the template, if you add another templ
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
 
-<h4>Tools and technologies:</h4>
-Visual studio 2022
-Microsoft SQL Server Management Studio 19
-SQL Server 2019 Configuration Manager
+<h4>Tools and technologies:</h4><br>
+Visual studio 2022<br>
+Microsoft SQL Server Management Studio 19<br>
+SQL Server 2019 Configuration Manager<br>
 
-<h4>BackEnd:</h4>
-C# Asp.NET Core Mvc 3.1
-Entity Framework Core+migration+Identity
-MSSQL 19
+<h4>BackEnd:</h4><br>
+C# Asp.NET Core Mvc 3.1<br>
+Entity Framework Core+migration+Identity<br>
+MSSQL 19<br>
 
 
-<h4>FrontEnd:</h4>
-HTML5
-JavaScript
-SASS=>css
+<h4>FrontEnd:</h4><br>
+HTML5<br>
+JavaScript<br>
+SASS=>css<br>
 
-<h4>Imports:</h4>
-CKEditor 4
+<h4>Imports:</h4><br>
+CKEditor 4<br>
