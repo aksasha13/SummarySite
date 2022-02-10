@@ -5,7 +5,7 @@ The site has authorization and authentication. when the site is used as an admin
 the ability to delete, add, edit all content on the site without using any development environment. 
 Thus any user with admin access can change the content without any knowledge of programming.
 Thus, the site can change its functionality from a resume to a company site or a photographer's portfolio easily and quickly
-I used MSSQL database and configured it to authenticate via sql server authentication (password and login)
+I used MSSQL database and configured it to authenticate via sql server authentication 
 
 ![image](https://user-images.githubusercontent.com/75273945/153415306-bb9bdb9c-399f-4f7b-bded-d5975150abda.png)
 
