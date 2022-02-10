@@ -29,10 +29,12 @@ everything works generically according to the template, if you add another templ
 Visual studio 2022<br>
 Microsoft SQL Server Management Studio 19<br>
 SQL Server 2019 Configuration Manager<br>
+Linq
 
 <h3>BackEnd:</h3>
 C# Asp.NET Core Mvc 3.1<br>
 Entity Framework Core+migration+Identity<br>
+DataAnotation<br>
 MSSQL 19<br>
 
 
