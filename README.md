@@ -25,21 +25,21 @@ everything works generically according to the template, if you add another templ
 ![image](https://user-images.githubusercontent.com/75273945/153416364-cb010eba-272c-4159-9368-e06089337b24.png)
 
 
-<h3>Tools and technologies:</h3><br>
+<h3>Tools and technologies:</h3>
 Visual studio 2022<br>
 Microsoft SQL Server Management Studio 19<br>
 SQL Server 2019 Configuration Manager<br>
 
-<h3>BackEnd:</h3><br>
+<h3>BackEnd:</h3>
 C# Asp.NET Core Mvc 3.1<br>
 Entity Framework Core+migration+Identity<br>
 MSSQL 19<br>
 
 
-<h3>FrontEnd:</h3><br>
+<h3>FrontEnd:</h3>
 HTML5<br>
 JavaScript<br>
 SASS=>css<br>
 
-<h3>Imports:</h3><br>
+<h3>Imports:</h3>
 CKEditor 4<br>
